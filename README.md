@@ -1,8 +1,8 @@
-India Literacy & Education Dashboard - Power BI Project
+# India Literacy & Education Dashboard - Power BI Project
 
 A comprehensive Power BI report analyzing India's population, literacy, education levels, gender disparities, child demographics and regional performance across all states. This project includes interactive dashboards, DAX-based analytics, map visuals.
 
-Project Overview:
+# Project Overview:
 •	Total Population
 •	Male & Female Literates
 •	Male & Female Graduates
@@ -15,6 +15,6 @@ Project Overview:
 •	Top 5 & Bottom 5 performing states
 •	Interactive maps & slicers
 
-Tools Used:
+# Tools Used:
 •	Power BI Desktop
 •	Dataset from Kaggle
