@@ -18,5 +18,5 @@ A comprehensive Power BI report analyzing India's population, literacy, educatio
 
 
 # Tools Used:
-•	Power BI Desktop
-•	Dataset from Kaggle
+- Power BI Desktop 
+- Dataset from Kaggle
